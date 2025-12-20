@@ -1,2 +1,0 @@
-# .github
-ODEL Digital Solutions
